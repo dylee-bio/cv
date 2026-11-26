@@ -1,0 +1,10 @@
+.Rproj.user
+.quarto/
+*_files/
+CV.html
+.Rproj.user/
+.Rhistory
+.RData
+.httr-oauth
+.DS_Store
+.quarto

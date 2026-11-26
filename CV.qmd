@@ -1,0 +1,101 @@
+---
+
+format:
+  pdf:
+    geometry: [margin=1in]
+    fontsize: 11pt
+    colorlinks: true
+    mainfont: "Times New Roman"
+    CJKmainfont: "Malgun Gothic"
+    pdf-engine: xelatex
+---
+
+# Dayeon Lee (이다연)
+
+PhD Candidate, Cancer Research Institute, Seoul National University\
+Seoul, Republic of Korea · [TODO@snu.ac.kr](mailto:TODO@snu.ac.kr) · [github.com/dylee-bio](https://github.com/dylee-bio)
+<!-- ORCID 발급 후: · [ORCID 0000-0000-0000-0000](https://orcid.org/0000-0000-0000-0000) -->
+
+---
+
+## Research Interests
+
+Patient-derived organoid (PDO) models of hormone-dependent cancers — prostate and gynecologic.
+Integration of whole-exome and transcriptome profiles with drug-response phenotypes to nominate
+genotype-matched therapeutic vulnerabilities for preclinical precision oncology.
+
+## Education
+
+| Period | Degree | Institution |
+|---|---|---|
+| 20XX–present | Ph.D. candidate in TODO(전공) — coursework completed 2026 | Seoul National University |
+| 20XX–20XX | M.S. in TODO | TODO |
+| 20XX–20XX | B.S. in TODO | TODO |
+
+## Research Experience
+
+**Graduate Researcher** — Cancer Research Institute, Seoul National University (20XX–present)
+
+- Established and maintained patient-derived prostate and gynecologic cancer organoid lines
+  from surgical and biopsy specimens; cryobanking and quality control of a model panel
+- Designed and executed 96-well drug-response screens (CellTiter-Glo 3D), including plate-layout
+  design, plate-wise control normalization, outlier handling, and dose–response/IC50 modeling
+- Built an end-to-end analysis pipeline for model characterization: WES variant processing and
+  oncoprint generation, loss-of-heterozygosity and microsatellite-instability profiling,
+  SNP fingerprinting for model identity, RNA-seq clustering and ssGSEA/Hallmark scoring,
+  and pathway-activity inference
+- Integrated in-house models with public pharmacogenomic resources (DepMap, PRISM, GDSC2) to
+  validate candidate biomarkers and define subtype-adjusted expression signatures
+- Linked genotype to drug sensitivity across MAPK, DNA-damage-response, and cell-cycle axes
+
+## Publications
+
+<!-- 1저자·교신저자는 굵게. 없으면 섹션째 삭제해도 됩니다. -->
+
+### Peer-reviewed articles
+
+1. TODO — Authors. Title. *Journal*. Year;vol:pages. doi:10.xxxx/xxxxx
+
+### Manuscripts in preparation
+
+2. **Dayeon Lee** et al. Pharmacogenomic characterization of a patient-derived gynecologic and
+   prostate cancer model panel. *(in preparation, 2026)*
+
+## Conference Presentations
+
+- TODO — **Poster** · Dayeon Lee et al. "Title." *Conference*, City. Month Year.
+
+## Technical Skills
+
+**Wet lab** — 3D organoid culture (establishment, passaging, cryopreservation), drug-sensitivity
+assays (CellTiter-Glo 3D), DNA/RNA extraction, qPCR
+
+**Genomics** — whole-exome variant processing and annotation, oncoprint visualization,
+LOH and MSI profiling, SNP fingerprinting, BAM-level inspection
+
+**Transcriptomics** — expression-matrix QC and clustering, ssGSEA / Hallmark enrichment,
+pathway-activity inference (PROGENy), signature construction with subtype adjustment
+
+**Pharmacogenomics** — dose–response and IC50/AUC modeling; integration with DepMap, PRISM, GDSC2
+
+**Computing** — Python (pandas, matplotlib, scikit-learn), R (tidyverse, Bioconductor), Git,
+reproducible project structure with pinned dependencies
+
+**Languages** — Korean (native), English (research proficiency)
+
+## Awards and Funding
+
+- TODO — Fellowship / Scholarship, Funder, Year
+
+## Teaching and Mentoring
+
+- TODO — Teaching Assistant, Course, Year
+- TODO — Mentored N undergraduate students in organoid culture and data analysis
+
+## Professional Activities
+
+- TODO — Member, Society name
+
+---
+
+*Source and build instructions: [github.com/dylee-bio/cv](https://github.com/dylee-bio/cv)*
